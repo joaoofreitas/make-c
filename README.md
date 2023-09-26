@@ -1,4 +1,4 @@
-# Make C++
+# Make C
 A template repository for making and compiling a C program.
 
 Mainly created this repository to serve as template to my computer science collegues as an alternative to the ___mandatory___ ~~Visual Studio.~~
